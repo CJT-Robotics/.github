@@ -9,12 +9,12 @@ We are **CJT-Robotics**, a team of around ten members of the **CJT-Gynasum Lauf 
 ## Documentation
 
 
-### Hardware Documentation  
+#### Hardware Documentation  
 
 You can find our hardware documentation [HERE](https://github.com/CJT-Robotics/hardware-docs/wiki).
 
 
-### Software Documentation
+#### Software Documentation
 
 You can find our sofware documentation [HERE](nonexistent-yet).
 
