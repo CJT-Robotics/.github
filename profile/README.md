@@ -31,37 +31,13 @@ IP: 192.168.1.*
 **Bitte nutzt nur die, euch zugewiesenen, Channels und IDs. Bei Fragen und Wünschen einfach melden.**
 
 ## Configuration Teams
-### CJT
-IP-Bereich: 192.168.1.10 - 192.168.1.19
 
-ROS_DOMAIN_ID: 10
-
-### WGG A
-IP-Bereich: 192.168.1.20 - 192.168.1.29
-
-ROS_DOMAIN_ID: 20
-
-### WGG B
-IP-Bereich: 192.168.1.30 - 192.168.1.39
-
-ROS_DOMAIN_ID: 30
-
-### WGG C
-IP-Bereich: 192.168.1.40 - 192.168.1.49
-
-ROS_DOMAIN_ID: 40
-
-### WLS A
-IP-Bereich: 192.168.1.50 - 192.168.1.59
-
-ROS_DOMAIN_ID: 50
-
-### WLS B
-IP-Bereich: 192.168.1.60 - 192.168.1.69
-
-ROS_DOMAIN_ID: 60
-
-### Dürer
-IP-Bereich: 192.168.1.70 - 192.168.1.79
-
-ROS_DOMAIN_ID: 70
+| Team  | IP-Bereich                  | ROS_DOMAIN_ID |
+|-------|-----------------------------|---------------|
+| CJT   | 192.168.1.10 - 192.168.1.19 | 10            |
+| WGG A | 192.168.1.20 - 192.168.1.29 | 20            |
+| WGG B | 192.168.1.30 - 192.168.1.39 | 30            |
+| WGG C | 192.168.1.40 - 192.168.1.49 | 40            |
+| WLS A | 192.168.1.50 - 192.168.1.59 | 50            |
+| WLS B | 192.168.1.60 - 192.168.1.69 | 60            |
+| Dürer | 192.168.1.70 - 192.168.1.79 | 70            |
