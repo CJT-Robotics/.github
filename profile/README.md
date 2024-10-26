@@ -20,15 +20,15 @@ You can find our sofware documentation [HERE](nonexistent-yet).
 
 # RMRC Competition Netzwerk
 ## General
-SSID 2.4Ghz: RMRC-Competition-2.4Ghz
+SSID 2.4Ghz (Channel 10): RMRC-Competition-2.4Ghz
 
-SSID 5Ghz: RMRC-Competition-5Ghz
+SSID 5Ghz (Channel 149): RMRC-Competition-5Ghz
 
 Passwort: rmrc-passwort
 
 IP: 192.168.1.*
 
-**Bitte nutzt nur die, euch zugewiesenen, Channels und IDs. Bei Fragen und Wünschen einfach melden.**
+**Bitte nutzt nur die, euch zugewiesenen, IPs und IDs. Bei Fragen und Wünschen einfach melden.**
 
 ## Configuration Teams
 
