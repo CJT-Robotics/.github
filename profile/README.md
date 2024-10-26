@@ -18,14 +18,50 @@ You can find our hardware documentation [HERE](https://github.com/CJT-Robotics/h
 
 You can find our sofware documentation [HERE](nonexistent-yet).
 
+# RMRC Competition Netzwerk
+## General
+SSID 2.4Ghz: RMRC-Competition-2.4Ghz
 
-<!--
+SSID 5Ghz: RMRC-Competition-5Ghz
 
-**Here are some ideas to get you started:**
+Passwort: rmrc-passwort
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+IP: 192.168.1.*
+
+**Bitte nutzt nur die, euch zugewiesenen, Channels und IDs. Bei Fragen und Wünschen einfach melden.**
+
+## Configuration Teams
+### CJT
+IP-Bereich: 192.168.1.10 - 192.168.1.19
+
+ROS_DOMAIN_ID: 10
+
+### WGG A
+IP-Bereich: 192.168.1.20 - 192.168.1.29
+
+ROS_DOMAIN_ID: 20
+
+### WGG B
+IP-Bereich: 192.168.1.30 - 192.168.1.39
+
+ROS_DOMAIN_ID: 30
+
+### WGG C
+IP-Bereich: 192.168.1.40 - 192.168.1.49
+
+ROS_DOMAIN_ID: 40
+
+### WLS A
+IP-Bereich: 192.168.1.50 - 192.168.1.59
+
+ROS_DOMAIN_ID: 50
+
+### WLS B
+IP-Bereich: 192.168.1.60 - 192.168.1.69
+
+ROS_DOMAIN_ID: 60
+
+### Dürer
+IP-Bereich: 192.168.1.70 - 192.168.1.79
+
+ROS_DOMAIN_ID: 70
